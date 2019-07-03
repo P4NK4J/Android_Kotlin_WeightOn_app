@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your_Weight_On</string>
+    <string name="message">What\'s Your Weight On ... ??</string>
+    <string name="hint">Enter Your Weight in Kgs</string>
+    <string name="Show_weight">Show Weight</string>
+    <string name="mars">Mars</string>
+    <string name="venus">Venus</string>
+    <string name="jupiter">Jupiter</string>
+</resources>
